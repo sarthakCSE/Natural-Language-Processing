@@ -29,7 +29,7 @@ public class NGramWithNoSmoothing {
         b.NGramNoSmoothing(quote2);
     }
     
-   
+    ArrayList<Integer> newList = new ArrayList<>();
     ArrayList<String> words = new ArrayList<>();
     ArrayList<String> sentences = new ArrayList<>();
     ArrayList<HashMap <String, Integer>> getCount = new ArrayList<HashMap <String, Integer>>();
