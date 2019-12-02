@@ -38,7 +38,7 @@ public class NGramWithNoSmoothing {
     int counts = 0;
     Double probability = 1.0;
     int total1 = 0;
-    String temp1, temp2,var1,var2,var3;    
+    String temp1, temp2,var1,var2,var3,var4;    
     
     
     
